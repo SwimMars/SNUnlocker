@@ -16433,9 +16433,9 @@
             }
         ],
         "VirtualCurrency": {
-            "FE": 1,
-            "AC": 1,
-            "XP": 1
+            "FE": 9999999,
+            "AC": 9999999,
+            "XP": 9999999
         },
         "VirtualCurrencyRechargeTimes": {}
     }
